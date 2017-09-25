@@ -68,7 +68,12 @@
 
     <!-- 底部导航栏部分 -->
     <div class="footer">
-
+        <ul>
+          <li><a href="###"><img src="/static/img/fr_shipu_ok.png" alt=""><span>食谱</span></a></li>
+          <li><a href="###"><img src="/static/img/fr_lehuo.png" alt=""><span>乐活</span></a></li>
+          <li><a href="###"><img src="/static/img/fr_shequ.png" alt=""><span>社区</span></a></li>
+          <li><a href="###"><img src="/static/img/fr_wode.png" alt=""><span>我的</span></a></li>
+        </ul>
     </div>
   </div>
 </template>
